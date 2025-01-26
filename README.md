@@ -1,4 +1,4 @@
-![Welcome Animation](https://i.imgur.com/your-custom-animation.gif)
+![Welcome Animation](https://media.giphy.com/media/l0HlR17EYdYHKnkp6/giphy.gif)
 
 Hi there! I'm Pratima Shrestha, a passionate web developer. I love exploring web development, working with the MERN stack, and building innovative projects that solve real-world problems.
 
