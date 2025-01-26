@@ -1,4 +1,4 @@
-![Welcome Animation](https://media.giphy.com/media/l0HlR17EYdYHKnkp6/giphy.gif)
+![Welcome Animation](https://media.giphy.com/media/9J7ZKqfDaBIk6/giphy.gif)
 
 Hi there! I'm Pratima Shrestha, a passionate web developer. I love exploring web development, working with the MERN stack, and building innovative projects that solve real-world problems.
 
@@ -6,7 +6,7 @@ Hi there! I'm Pratima Shrestha, a passionate web developer. I love exploring web
 - **GamingOrbit**: A platform for gamers with features like tournaments, bracket creation, and live streaming.
 
 🔧 **Technologies I Work With:**
-- **Frontend**: ![React Logo](https://media.giphy.com/media/9rR3lDkbW2C0E/giphy.gif)
+- **Frontend**: ![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
 - **Backend**: ![Node.js Logo](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo_2015.svg)
 - **Database**: ![MongoDB Logo](https://upload.wikimedia.org/wikipedia/commons/4/4e/MongoDB-Logo.svg)
 - **Others**: ![Docker](https://upload.wikimedia.org/wikipedia/commons/a/a0/Docker_logo.png)
