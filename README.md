@@ -6,7 +6,7 @@ Hi there! I'm Pratima Shrestha, a passionate web developer. I love exploring web
 - **GamingOrbit**: A platform for gamers with features like tournaments, bracket creation, and live streaming.
 
 🔧 **Technologies I Work With:**
-- **Frontend**: <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="20" height="20"/>
+- **Frontend**: <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="50" height="50"/>
 - **Backend**: ![Node.js Logo](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo_2015.svg)
 - **Database**: ![MongoDB Logo](https://upload.wikimedia.org/wikipedia/commons/4/4e/MongoDB-Logo.svg)
 - **Others**: ![Docker](https://upload.wikimedia.org/wikipedia/commons/a/a0/Docker_logo.png)
