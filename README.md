@@ -24,7 +24,7 @@ A passionate **Web Developer** exploring the endless possibilities of web develo
 ### 📈 **GitHub Stats:**
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratima89-Shrestha&show_icons=true&theme=radical) -->
 
-<!--![Profile Views](https://komarev.com/ghpvc/?username=Pratima89-Shrestha&color=brightgreen)-->
+![Profile Views](https://komarev.com/ghpvc/?username=Pratima89-Shrestha&color=brightgreen)
 
 ---
 
